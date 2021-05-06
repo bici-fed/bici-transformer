@@ -1,0 +1,3 @@
+.hasErr :global(.ant-input) {
+  border: 1px solid #f5222d;
+}

@@ -1,0 +1,50 @@
+/*
+ * @File: 公有布局
+ */
+
+#root {
+  height: 100%;
+}
+.pageWrapper {
+  padding: 8px;
+  min-height: 100%;
+  background-color: #fff;
+}
+.circleLi {
+  margin-left: 20px;
+  list-style-type: circle;
+}
+.circleLi-2 {
+  margin-left: 40px;
+  list-style-type: circle;
+}
+
+/*
+ * 字阶
+ */
+
+/* 次要内容 */
+.fstage12 {
+  font-size: 12px;
+  line-height: 20px;
+}
+/* 主要内容 */
+.fstage14 {
+  font-size: 14px;
+  line-height: 22px;
+}
+/* 标题 */
+.fstage16 {
+  font-size: 16px;
+  line-height: 24px;
+}
+/* 标语文字-小 */
+.fstage20 {
+  font-size: 20px;
+  line-height: 28px;
+}
+/* 标语文字-大 */
+.fstage24 {
+  font-size: 24px;
+  line-height: 32px;
+}

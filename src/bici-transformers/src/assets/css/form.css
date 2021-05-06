@@ -1,0 +1,32 @@
+/*
+ * @File:表单布局
+ */
+
+.form-col {
+  display: flex;
+  vertical-align: center;
+}
+
+/* 必填提示 */
+.form-labelRequired {
+  margin-right: 6px;
+  color: #f5222d;
+}
+
+/* 验证提示 */
+.form-hint {
+  margin-left: 110px;
+  min-height: 20px;
+  line-height: 20px;
+}
+
+.form-label {
+  padding-right: 8px;
+  width: 126px;
+  line-height: 32px;
+  text-align: right;
+}
+
+.form-label-sm {
+  line-height: 24px;
+}

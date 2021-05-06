@@ -1,0 +1,22 @@
+.fieldWrapper {
+  position: relative;
+}
+.fieldMask {
+  position: absolute;
+  text-align: right;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: #000;
+  z-index: 100;
+  cursor: move;
+  opacity: 0.5;
+}
+.fieldOperationIcon {
+  margin-right: 4px;
+  font-size: 22px;
+  vertical-align: middle;
+  color: #fff;
+  cursor: pointer;
+}

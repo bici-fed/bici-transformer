@@ -1,0 +1,24 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  min-height: 100%;
+  background-color: #fff;
+}
+
+.emptyWrapper {
+  flex: 1;
+  display: flex;
+}
+
+.empty {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.imgEmpty {
+  display: block;
+  width: 200px;
+  height: 200px;
+}

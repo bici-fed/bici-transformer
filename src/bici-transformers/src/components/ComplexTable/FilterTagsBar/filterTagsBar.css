@@ -1,0 +1,15 @@
+.root {
+  /* vertical-align: bottom; */
+  display: flex;
+  align-items: center;
+}
+.label {
+  display: inline-block;
+  margin-right: 6px;
+  line-height: 44px;
+  min-width: 80px;
+}
+.clearAllTag {
+  background: #fff;
+  border-style: dashed;
+}

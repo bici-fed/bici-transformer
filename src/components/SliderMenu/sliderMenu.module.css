@@ -1,0 +1,17 @@
+.root {
+  position: fixed;
+  left: 0;
+  height: 100%;
+  overflow-y: auto;
+  z-index: 800;
+}
+.logo {
+  margin: 16px;
+  height: 32px;
+  color: #fff;
+  font-size: 14px;
+  text-align: center;
+  line-height: 32px;
+  cursor: pointer;
+  background: rgba(255, 255, 255, 0.2);
+}

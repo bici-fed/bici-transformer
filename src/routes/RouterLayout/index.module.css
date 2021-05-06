@@ -1,0 +1,18 @@
+.root {
+  height: 100%;
+  min-width: 1366px;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  transition: all 0.2s;
+}
+.header {
+  padding: 0;
+  height: auto;
+  background: #f0f2f5;
+}
+.content {
+  flex: 1;
+  background-color: #fff;
+}

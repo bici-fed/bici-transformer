@@ -1,0 +1,17 @@
+.pageWrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 12px;
+  min-height: 100%;
+  background-color: #fff;
+  position: relative;
+}
+
+.miniMap {
+  width: 300px;
+  height: 150px;
+  position: absolute;
+  right: 12px;
+  box-sizing: content-box;
+  border: 2px dotted #13c2c2;
+}

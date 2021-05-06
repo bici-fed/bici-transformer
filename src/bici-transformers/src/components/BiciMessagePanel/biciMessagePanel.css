@@ -1,0 +1,34 @@
+.messageContentWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.messageContent {
+  display: flex;
+  align-items: center;
+}
+.title {
+  color: rgba(0, 0, 0, 0.65);
+}
+.content {
+  color: rgba(0, 0, 0, 0.45);
+}
+.messageTime {
+  color: rgba(0, 0, 0, 0.45);
+}
+.notAttention {
+  text-align: center;
+  color: rgba(0, 0, 0, 0.45); 
+}
+
+.infiniteContainer {
+  overflow: auto;
+  padding: 8px 12px;
+  max-height: 500px;
+}
+.loadingContainer {
+  position: absolute;
+  bottom: 40px;
+  width: 100%;
+  text-align: center;
+}

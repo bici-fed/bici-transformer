@@ -1,0 +1,114 @@
+/*
+ * @File: 面向属性的 CSS
+ */
+
+/*
+ * display
+ */
+.dpnone { display: none }
+.dpinlineblock { display: inline-block; }
+.dpflex { display: flex; }
+.flex1 { flex: 1 }
+
+/*
+ * 盒模型
+ */
+.pd12 { padding: 12px; }
+.pd16 { padding: 16px; }
+
+.mt4 { margin-top: 4px; }
+.mt6 { margin-top: 6px; }
+.mt8 { margin-top: 8px; }
+.mt12 { margin-top: 12px; }
+.mt16 { margin-top: 16px; }
+.mt20 { margin-top: 20px; }
+
+.mr4 { margin-right: 4px; }
+.mr6 { margin-right: 6px; }
+.mr8 { margin-right: 8px; }
+.mr12 { margin-right: 12px; }
+.mr16 { margin-right: 16px; }
+.mr20 { margin-right: 20px; }
+
+.mb4 { margin-bottom: 4px; }
+.mb6 { margin-bottom: 6px; }
+.mb8 { margin-bottom: 8px; }
+.mb12 { margin-bottom: 12px; }
+.mb16 { margin-bottom: 16px; }
+.mb20 { margin-bottom: 20px; }
+.mb32 { margin-bottom: 32px; }
+
+.ml4 { margin-left: 4px; }
+.ml6 { margin-left: 6px; }
+.ml8 { margin-left: 8px; }
+.ml12 { margin-left: 12px; }
+.ml16 { margin-left: 16px; }
+.ml20 { margin-left: 20px; }
+
+.pt4 { padding-top: 4px; }
+.pt6 { padding-top: 6px; }
+.pt8 { padding-top: 8px; }
+.pt12 { padding-top: 12px; }
+.pt16 { padding-top: 16px; }
+.pt20 { padding-top: 20px; }
+
+.pr4 { padding-right: 4px; }
+.pr6 { padding-right: 6px; }
+.pr8 { padding-right: 8px; }
+.pr12 { padding-right: 12px; }
+.pr16 { padding-right: 16px; }
+.pr20 { padding-right: 20px; }
+
+.pb4 { padding-bottom: 4px; }
+.pb6 { padding-bottom: 6px; }
+.pb8 { padding-bottom: 8px; }
+.pb12 { padding-bottom: 12px; }
+.pb16 { padding-bottom: 16px; }
+.pb20 { padding-bottom: 20px; }
+
+.pl4 { padding-left: 4px; }
+.pl6 { padding-left: 6px; }
+.pl8 { padding-left: 8px; }
+.pl12 { padding-left: 12px; }
+.pl16 { padding-left: 16px; }
+.pl20 { padding-left: 20px; }
+
+.widthPct100 {
+  width: 100%;
+}
+
+/*
+ * 字色
+ */
+.fcred6 {
+  color: #f5222d;
+}
+.fcgrey6 {
+  color: #bfbfbf;
+}
+
+/*
+ * 字重
+ */
+.fw500 { font-weight: 500; }
+.fw600 { font-weight: 600; }
+
+/*
+ * 字号
+ */
+.fs12 { font-size: 12px; }
+.fs14 { font-size: 14px; }
+.fs16 { font-size: 16px; }
+.fs18 { font-size: 18px; }
+
+/*
+ * 排版
+ */
+.taRight { text-align: right; }
+.verticalMiddle { vertical-align: middle; }
+
+/*
+ * 鼠标指针
+ */
+.cursorDefault { cursor: default; }
+.cursorPointer { cursor: pointer; }

@@ -1,0 +1,52 @@
+{
+  "name": "bici-design",
+  "version": "2.1.4",
+  "private": true,
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "@ant-design/compatible": "^1.0.8",
+    "@ant-design/icons": "4.2.2",
+    "@antv/data-set": "0.8.6",
+    "@antv/g6": "2.2.0",
+    "ant-design-pro": "2.1.1",
+    "antd": "^4.0.0",
+    "babel-loader": "8.0.4",
+    "bici-transformers": "0.15.0",
+    "bizcharts": "3.4.1",
+    "connected-react-router": "6.2.1",
+    "g2": "2.3.13",
+    "history": "4.7.2",
+    "less": "3.9.0",
+    "lodash": "4.17.11",
+    "moment": "2.23.0",
+    "prop-types": "15.6.2",
+    "react": "^16.9.0",
+    "react-dnd": "3.0.2",
+    "react-dnd-html5-backend": "2.6.0",
+    "react-dom": "^16.9.0",
+    "react-redux": "6.0.0",
+    "react-router": "4.3.1",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "2.1.2",
+    "redux": "4.0.1",
+    "typescript": "3.3.3333"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "1.11.0",
+    "customize-cra": "0.2.9",
+    "less-loader": "4.1.0",
+    "node-sass": "4.11.0",
+    "react-app-rewired": "2.0.2",
+    "sass-loader": "6.0.7"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

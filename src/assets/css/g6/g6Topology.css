@@ -1,0 +1,56 @@
+/* 
+ * @File: G6 硬件拓扑结构
+ */
+
+.pology-cardContainer {
+  width: 170px;
+  height: 74px;
+  border: 1px solid #DBDBDB;
+  border-radius: 4px;
+}
+
+.pology-cardTitle {
+  margin: 6px 14px;
+  padding-bottom: 8px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 16px;
+  border-bottom: 1px solid #DBDBDB;
+}
+.pology-cardLi {
+  margin: 8px;
+  font-size: 12px;
+}
+.pology-cardKey {
+  margin-left: 12px;
+  text-align: left;
+}
+.pology-cardValue {
+  margin-right: 12px;
+  float: right;
+}
+
+.pology-toolTip-wrapper {
+  padding-bottom: 8px
+}
+.pology-toolTip-triangle {
+  font-size: 14px;
+  border-color: transparent;
+  border-style: solid;
+  bottom: 3px;
+  color: rgba(0, 0, 0, 0.65);
+  border-top-color: rgba(0, 0, 0, 0.75);
+  border-width: 5px 5px 0px;
+  left: 16px;
+  position: absolute;
+  width: 0;
+  height: 0;
+}
+.pology-toolTip-text {
+  border-radius: 4px;
+  color: white;
+  padding: 6px 8px;
+  min-height: 32px;
+  background-color: rgba(0, 0, 0, 0.75);
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+}

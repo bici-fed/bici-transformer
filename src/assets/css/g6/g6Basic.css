@@ -1,0 +1,7 @@
+/* 
+ * @File: G6 公共基础样式
+ */
+
+.g6-hoverPointer:hover {
+  cursor: pointer;
+}

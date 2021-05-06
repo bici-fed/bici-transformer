@@ -1,0 +1,49 @@
+.wrapper {
+  position: absolute;
+  width: 150px;
+  left: 279px;
+  top: -1px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+.column {
+  flex: 1;
+  height: 267px;
+  overflow: hidden;
+}
+.column + .column {
+  border-left: 1px solid #e8e8e8;
+}
+.column:hover {
+  overflow: auto;
+}
+.item {
+  cursor: pointer;
+}
+.disabled {
+  cursor: not-allowed;
+}
+.active {
+  font-weight: 700;
+  color: #2e8de6;
+  background-color: #f5f5f5;
+}
+.okBtn {
+  width: 48px;
+  height: 24px;
+  margin: 5px 0 5px auto;
+  padding: 0 7px;
+  line-height: 24px;
+  text-align: center;
+  border-radius: 4px;
+  color: #fff;
+  background-color: #2e8de6;
+  cursor: pointer;
+}
+.okBtn:hover {
+  opacity: 0.9;
+}

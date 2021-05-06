@@ -1,0 +1,45 @@
+.filterDropdown {
+  display: flex;
+  padding: 8px;
+  border-radius: 6px;
+  background: #fff;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+}
+.searchInput {
+  margin-right: 8px !important;
+  padding-right: 8px !important;
+  padding-left: 8px !important;
+  width: 136px !important;
+}
+.tagSelect {
+  width: 300px !important;
+}
+.tagSelectBtn {
+  width: 260px !important;
+  margin: 10px 20px !important;
+  display: block !important;
+}
+.tableBar {
+  margin-bottom: 12px;
+  display: flex;
+}
+.filterTagsWrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column-reverse;
+}
+.columnOptionMenu {
+  height: 320px;
+  overflow-y: auto;
+}
+.menuItem:hover {
+  background-color: #fff !important;
+}
+
+/*
+ * Small 布局
+ */
+.tableBar_small {
+  margin-bottom: 4px;
+  display: flex;
+}

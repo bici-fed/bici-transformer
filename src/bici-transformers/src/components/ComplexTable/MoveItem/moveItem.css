@@ -1,0 +1,10 @@
+.root {
+  margin: -5px -12px;
+  padding: 5px 12px;
+  user-select: none;
+}
+
+.dragging {
+  height: 32px;
+  background-color: #eee;
+}

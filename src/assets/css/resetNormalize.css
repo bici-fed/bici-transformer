@@ -1,0 +1,17 @@
+/*
+ * @File: 覆盖重置 Normalize 7 的属性
+ */
+
+p {
+  margin-bottom: 0;
+}
+ol,
+ul,
+dl {
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style: none;
+}
+a:link {
+  text-decoration: none;
+}

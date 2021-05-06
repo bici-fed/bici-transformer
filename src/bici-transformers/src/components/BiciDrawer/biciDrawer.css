@@ -1,0 +1,30 @@
+/* 占位元素 */
+.footerPlaceholder {
+  width: 100%;
+  height: 34px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 10px 16px;
+  width: 100%;
+  border-top: 1px solid #e9e9e9;
+  background: #fff;
+  text-align: center;
+}
+
+.footerSM {
+  padding: 8px 16px;
+}
+
+.footerByUser {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 10px 16px;
+  width: 100%;
+  border-top: 1px solid #e9e9e9;
+  background: #fff;
+}

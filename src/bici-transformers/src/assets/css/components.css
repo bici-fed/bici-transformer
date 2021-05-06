@@ -1,0 +1,15 @@
+/*
+ * @File: 组件相关的非模块 CSS
+ */
+
+/*
+ * 复杂表格
+ */
+.complexTable-highlightRow {
+  background-color: #e6f7ff;
+}
+
+/* 输入组件红色警告，当加上后缀图标后style失效 */
+.inputHint .ant-input {
+  border: 1px solid #f5222d;
+}
