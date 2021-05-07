@@ -1,11 +1,14 @@
 {
-  "name": "bici-transformers",
+  "name": "bici-transformer",
   "version": "0.19.9",
   "description": "BICI PC端组件库",
   "scripts": {
     "build": "webpack"
   },
-  "repository": "https://github.com/bici-fed/bici-transformers.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bici-fed/bici-transformer.git"
+  },
   "license": "GPL",
   "main": "dist/bici-transformers.js",
   "dependencies": {
